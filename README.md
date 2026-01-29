@@ -150,7 +150,13 @@ canvas{
 
 <body>
 
-<canvas id="bg"></canvas>
+canvas {
+  position: fixed;
+  inset: 0;
+  z-index: 0;
+  pointer-events: none;
+}
+
 
 <header>
   <div class="logo">ADVONA.AI</div>
