@@ -22,6 +22,25 @@ body{
   color:var(--text);
   overflow-x:hidden;
 }
+/* ===== EMERGENCY VISIBILITY FIX ===== */
+body * {
+  opacity: 1 !important;
+  transform: none !important;
+}
+
+header, section, footer {
+  position: relative !important;
+  z-index: 10 !important;
+}
+
+.logo,
+.hero h1,
+.hero p,
+nav a {
+  color: #ffffff !important;
+  -webkit-text-fill-color: initial !important;
+  background: none !important;
+}
 
 /* ===== Header ===== */
 header{
