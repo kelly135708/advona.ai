@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+
 <html lang="zh-CN">
 <head>
 <meta charset="UTF-8" />
@@ -188,7 +188,7 @@ footer{
   <p>We are hiring performance-driven builders.</p>
 
   <a class="btn" href="#contact">Start Growth</a>
-  <a class="btn secondary" href="#careers">Join ADVONA</a>
+  <a class="btn secondary" href="#careers.html">Join ADVONA</a>
 </section>
 
 <section id="services">
