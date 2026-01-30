@@ -55,4 +55,40 @@
       background: #ffffff;
       color: #000000;
       font-weight: bold;
-      text
+      text-decoration: none;
+    }
+
+    footer {
+      padding: 40px;
+      border-top: 1px solid #222;
+      text-align: center;
+      color: #888;
+    }
+  </style>
+</head>
+
+<body>
+
+<header>
+  <div class="logo">ADVONA.AI</div>
+</header>
+
+<section>
+  <h1>Performance Marketing for Global Growth</h1>
+  <p>
+    ADVONA.AI 是一家专注效果投放与出海增长的营销公司，
+    用数据和结果驱动增长。
+  </p>
+  <p>
+    We help global brands scale through paid media and performance systems.
+  </p>
+
+  <a class="btn" href="mailto:talent@advona.ai">Join Us</a>
+</section>
+
+<footer>
+  © 2026 ADVONA.AI · talent@advona.ai
+</footer>
+
+</body>
+</html>
